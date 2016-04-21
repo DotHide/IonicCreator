@@ -1,0 +1,33 @@
+{
+  "name": "ionic-creator",
+  "version": "1.0.0",
+  "description": "Ionic Creator for Yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DotHide/IonicCreator.git"
+  },
+  "keywords": [
+    "ionic",
+    "yeoman",
+    "generator"
+  ],
+  "author": "Martin_nett <dothide@gmail.com> (https://github.com/DotHide)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DotHide/IonicCreator/issues"
+  },
+  "homepage": "https://github.com/DotHide/IonicCreator#readme",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-concurrent": "2.3.0",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-parallel": "0.4.1",
+    "grunt-shell": "1.3.0",
+    "load-grunt-tasks": "3.5.0"
+  }
+}
